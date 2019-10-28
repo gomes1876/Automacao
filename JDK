@@ -1,4 +1,5 @@
-MAC:https://download.oracle.com/otn/java/jdk/8u231-b11/5b13a193868b4bf28bcb45c792fce896/jdk-8u231-linux-x64.tar.gz
-LINUX:https://download.oracle.com/otn/java/jdk/8u231-b11/5b13a193868b4bf28bcb45c792fce896/jdk-8u231-linux-x64.tar.gz
-WINDOWS:https://download.oracle.com/otn/java/jdk/8u231-b11/5b13a193868b4bf28bcb45c792fce896/jdk-8u231-windows-x64.exe
+Crie uma conta para uso pessoal na Oracle, no link a baixo:
+https://profile.oracle.com/myprofile/account/create-account.jspx
 
+Após isso abra o link a seguir para realizar o download da JDK que iremos precisar:
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
